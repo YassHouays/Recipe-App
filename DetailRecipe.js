@@ -18,6 +18,7 @@ class DetailRecipe extends React.Component {
         this.setState({ recette });
         console.log(recette);
       })
+    //if the request are already fully used this day, use the line below
     // this.setState({recette: data})
   }
   

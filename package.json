@@ -12,7 +12,7 @@
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
     "axios": "^0.21.1",
-    "expo": "~41.0.1",
+    "expo": "^41.0.1",
     "expo-status-bar": "~1.0.4",
     "fs": "0.0.1-security",
     "react": "16.13.1",
